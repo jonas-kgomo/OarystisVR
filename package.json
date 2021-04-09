@@ -1,9 +1,9 @@
 {
   "name": "oarystisvr",
-  "description": "Casper for gatsby",
+  "description": "Oary Letters",
   "version": "0.0.0",
   "private": true,
-  "author": "Scott Cooper <scttcper@gmail.com>",
+  "author": "Jonas <jonaskgmoo@gmail.com>",
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
