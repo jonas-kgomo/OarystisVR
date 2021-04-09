@@ -31,28 +31,14 @@ Sampriti Bhattacharyya, Founder of **Hydroswarm** seeks to solve this kind of pr
 
 > “I was an aerospace engineer before and even worked at NASA on flight controls while I was a student at Ohio State. It was only after the Malaysian Airlines MH370 flight got lost that I realized how little we knew about the oceans. What excited me, in so many ways, was the fact that the challenges in deep water exploration are so much more than in space. I suspected our little robots might be able to work together to map larger areas.”
 
+A map contains feature and location data, to do mapping underwater we need a lot of data . Three challenges that hinder mass democratization of mapping the ocean
 ###  GPS:
 ### Communication: 
     Bringing the data to the surface is hard under water, and aggregation of and relate the positioning.
 ### Hardware: 
     The hardware used to collect the data is not scalable. We need to understand enough data to apply sensors that can tell us how healthy are coral reefs.
 
+# Seabed 2030
+It aims to bring together all available bathymetric data to produce the definitive map of the world ocean floor by 2030 and make it available to all.
 
-
-A map contains feature and location data, to do mapping underwater we need a lot of data . Three challenges that hinder mass democratization of mapping the ocean
-## Adding quotes
-
-When you want to pull out a particularly good excerpt in the middle of a piece, you can use `>` at the beginning of a paragraph to turn it into a Blockquote. You might've seen this formatting before in email clients.
-
-> A well placed quote guides a reader through a story, helping them to understand the most important points being made
-
-All themes handles blockquotes slightly differently. Sometimes they'll look better kept shorter, while other times you can quote fairly hefty amounts of text and get away with it. Generally, the safest option is to use blockquotes sparingly.
-
-
-## Dividing things up
-
-If you're writing a piece in parts and you just feel like you need to divide a couple of sections distinctly from each other, a horizontal rule might be just what you need. Dropping `---` on a new line will create a sleek divider, anywhere you want it.
-
----
-
-This should get you going with the vast majority of what you need to do in the editor, but if you're still curious about more advanced tips then check out the [Advanced Markdown Guide](/advanced-markdown/) - or if you'd rather learn about how Ghost taxononomies work, we've got a overview of [how to use Ghost tags](/using-tags/).
+We have maps of Mars that are incredibly detailed with a resolution of 20 meters. But, most of Earth’s seafloor maps are at a resolution of 5 kilometers. The struggle in mapping the seafloor is simple physics: radar cannot reliably scan through deep ocean waters as the radar waves are blocked by the aqueous medium. Instead, sonar is employed from on-board devices carried by ships

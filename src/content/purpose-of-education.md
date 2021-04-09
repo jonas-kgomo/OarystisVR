@@ -1,24 +1,52 @@
 ---
 layout: post
-title: "The Purpose of Education"
+title: "Using Immersion As Activism"
 author: Jonas
 tags: ["Speeches"]
-image: img/demo4.jpg
+image: img/crossing.jpg
 date: "2012-08-20T15:11:55.000Z"
 draft: false
 ---
 
+# Crossing
+The work depicted above is called Crossing the Rubicon,
 
-As I engage in the so-called "bull sessions" around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the "brethren" think that education should equip them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.
+> Intended to be a monument to absurdity, a dysfunctional barrier in the middle of a vast fluid, three-dimensional space, which can be bypassed in any direction, says deCaires Taylor.
 
-It seems to me that education has a two-fold function to perform in the life of man and in society: the one is utility and the other is culture. Education must enable a man to become more efficient, to achieve with increasing facility the ligitimate goals of his life.
+# Vicissitudes
+Many analyse *The Vicissitudes* monument as a plea to the Atlantic Slave Trade. Sometimes known as The Middle Passage was the stage of the triangular trade in which millions of Africans were forcibly transported to the New World as part of the Atlantic slave trade.
 
-Education must also train one for quick, resolute and effective thinking. To think incisively and to think for one's self is very difficult. We are prone to let our mental life become invaded by legions of half truths, prejudices, and propaganda. At this point, I often wonder whether or not education is fulfilling its purpose. A great majority of the so-called educated people do not think logically and scientifically. Even the press, the classroom, the platform, and the pulpit in many instances do not give us objective and unbiased truths. To save man from the morass of propaganda, in my opinion, is one of the chief aims of education. Education must enable one to sift and weigh evidence, to discern the true from the false, the real from the unreal, and the facts from the fiction.
 
-The function of education, therefore, is to teach one to think intensively and to think critically. But education which stops with efficiency may prove the greatest menace to society. The most dangerous criminal may be the man gifted with reason, but with no morals.
+![img](/img/welcome.jpg)
 
-The late Eugene Talmadge, in my opinion, possessed one of the better minds of Georgia, or even America. Moreover, he wore the Phi Beta Kappa key. By all measuring rods, Mr. Talmadge could think critically and intensively; yet he contends that I am an inferior being. Are those the types of men we call educated?
+However, Jason argues that the Vicissitudes shows how time and environment impact on and shape the physical body. Children by nature are adaptive to their surroundings. Their use within the work highlights the importance of creating a sustainable and well-managed environment,a space for future generations.
 
-We must remember that intelligence is not enough. Intelligence plus character--that is the goal of true education. The complete education gives one not only power of concentration, but worthy objectives upon which to concentrate. The broad education will, therefore, transmit to one not only the accumulated knowledge of the race but also the accumulated experience of social living.
+Although it was not my intention from the outset I am very encouraged how it has resonated differently within various communities and feel it is working as an art piece by questioning our identity, history and stimulating debate.”
 
-If we are not careful, our colleges will produce a group of close-minded, unscientific, illogical propagandists, consumed with immoral acts. Be careful, "brethren!" Be careful, teachers!
+> Vicissitudes depicts a circle of figures, all linked through holding hands. These are life-size casts taken from a group of children of diverse ethnic background. Circular in structure … the work both withstands strong currents and replicates one of the primary geometric shapes, evoking ideas of unity and continuum. … The sculpture proposes growth, chance, and natural transformation.
+
+# Fibre Optics
+
+There is a monopoly on fibre optic subsea cabling, the architecture of the internet has a monopoly so does its hardware network cabling.
+
+The issue often for the content providers – Google and Facebook – is they currently cannot source enough capacity from the existing cables for themselves… so they need to build to get that much access themselves. says Alan Mauldin.
+
+> Alan is a research director at TeleGeography, a telecoms data firm that tracks and maps subsea cables. The result is more of the internet’s physical infrastructure is owned by the companies that have the biggest presence online.
+
+![img](/img/fibre.jpg)
+
+Urs Holzle, a senior vice president of technical infrastructure at Google’s Cloud division, says the consortiums can slow the process of building new cables down and that’s why Google has decided to go it alone. Network Consortiums are great for cost sharing but it takes a while to get to a consensus. So companies form these consortia to create a monopoly on cabling
+
+<p>Interventions to avoid subsea cabling</p>
+
+- Facebook has trialled using a giant solar-powered drone flying above regions to connect people on the ground. The drone crashed on its second test flight and Facebook has since cancelled the project.
+- Project Loon (Google) – using internet-connected balloons that provide connectivity on the ground below .
+- Space companies and pioneers, including Elon Musk’s SpaceX, are looking to use swarms of small satellites to beam internet from above.
+Subsea cables are kind of what you don’t want to build if you can avoid it. Maybe one-day cables are going to be replaced by that. Light actually travels faster in the air than in fibre. Theoretically, if you had a string of Loons with lasers in-between across the Atlantic it would beat the latency of cables by around one third.
+
+
+# Free Space Optical Communication
+
+ FSOC is an optical communication technology that uses light propagating in free space to wirelessly transmit data for telecommunications or computer networking. "Free space" here means air, outer space, vacuum, or something similar. This contrasts with using solids such as optical fiber cable.
+
+This can be seen as a solution to the problem of targeting the ocean, we can focus on laser beams relayed in real space as  light travels fasgter there than underwater, this can releave the stress we place on the planet!
