@@ -1,62 +1,45 @@
 ---
 layout: post
-title: "Using The Ghost Editor"
-author: Ghost
+title: "Mapping The Ocean Seafloor"
+author: Jonas
 tags: ["Getting Started"]
 image: img/writing.jpg
 date: "2015-02-02T23:46:37.121Z"
 draft: false
 ---
 
-Ghost uses a language called **Markdown** to format text.
+We have a map of our world , 70% of our world is water and this part remains unmapped. Before we go into space we need to understand our limitations , astrobiology is the first thing to study when arriving to a new planet. We know more about the moon than we do about the oceans. Satellite imaging has mapped less than 10% has been mapped sufficiently, that means 65% of the earth is a mystery.
 
-When you go to edit a post and see special characters and colours intertwined between the words, those are Markdown shortcuts which tell Ghost what to do with the words in your document. The biggest benefit of Markdown is that you can quickly apply formatting as you type, without needing to pause.
+---
 
-At the bottom of the editor, you'll find a toolbar with basic formatting options to help you get started as easily as possible. You'll also notice that there's a **?** icon, which contains more advanced shortcuts.
+# Bathymetry
 
-For now, though, let's run you through some of the basics. You'll want to make sure you're editing this post in order to see all the Markdown we've used.
+Bathymetry means the measurement of depth of water in oceans, seas, or lakes.
 
+Bathymetry data can be used for understanding global ocean currents along with weather and climate. Fishermen use nautical charts with bathymetry for navigation. When you need to accurately enter latitude and longitude coordinates in a GIS, the first step is to give it a datum. A geodetic datum uniquely defines all locations on Earth with coordinates.
+ 
+> “Our vision is that these new technologies will enable the discovery of new ocean species, underwater resources, geological features, and safer methods of exploring the deep sea, while illuminating the mysteries of the deep and discovering what has remained unknown since the dawn of time.”, Jyotika Virmani, Ph.D
+---
 
-## Formatting text
+<iframe width="826" height="464" src="https://www.youtube.com/embed/g9vht3mJtSA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-The most common shortcuts are of course, **bold** text, _italic_ text, and [hyperlinks](https://example.com). These generally make up the bulk of any document. You can type the characters out, but you can also use keyboard shortcuts.
+-- 
 
-* `CMD/Ctrl + B` for Bold
-* `CMD/Ctrl + I` for Italic
-* `CMD/Ctrl + K` for a Link
-* `CMD/Ctrl + H` for a Heading (Press multiple times for h2/h3/h4/etc)
+# Ocean Data
 
-With just a couple of extra characters here and there, you're well on your way to creating a beautifully formatted story.
+Sampriti Bhattacharyya, Founder of **Hydroswarm** seeks to solve this kind of problems. Hydroswarm is a robotics company aiming to change that. They’ve developed innovative technologies and new networked systems to enable vast ocean exploration and the collection and analysis of maritime big data.
 
+> “I was an aerospace engineer before and even worked at NASA on flight controls while I was a student at Ohio State. It was only after the Malaysian Airlines MH370 flight got lost that I realized how little we knew about the oceans. What excited me, in so many ways, was the fact that the challenges in deep water exploration are so much more than in space. I suspected our little robots might be able to work together to map larger areas.”
 
-## Inserting images
-
-Images in Markdown look just the same as links, except they're prefixed with an exclamation mark, like this:
-
-`![Image description](/path/to/image.jpg)`
-
-![Computer](img/computer.jpg)
-
-Most Markdown editors don't make you type this out, though. In Ghost you can click on the image icon in the toolbar at the bottom of the editor, or you can just click and drag an image from your desktop directly into the editor. Both will upload the image for you and generate the appropriate Markdown.
-
-_**Important Note:** Ghost does not currently have automatic image resizing, so it's always a good idea to make sure your images aren't gigantic files **before** uploading them to Ghost._
+###  GPS:
+### Communication: 
+    Bringing the data to the surface is hard under water, and aggregation of and relate the positioning.
+### Hardware: 
+    The hardware used to collect the data is not scalable. We need to understand enough data to apply sensors that can tell us how healthy are coral reefs.
 
 
-## Making lists
 
-Lists in HTML are a formatting nightmare, but in Markdown they become an absolute breeze with just a couple of characters and a bit of smart automation. For numbered lists, just write out the numbers. For bullet lists, just use `*` or `-` or `+`. Like this:
-
-1. Crack the eggs over a bowl
-2. Whisk them together
-3. Make an omelette
-
-or
-
-- Remember to buy milk
-- Feed the cat
-- Come up with idea for next story
-
-
+A map contains feature and location data, to do mapping underwater we need a lot of data . Three challenges that hinder mass democratization of mapping the ocean
 ## Adding quotes
 
 When you want to pull out a particularly good excerpt in the middle of a piece, you can use `>` at the beginning of a paragraph to turn it into a Blockquote. You might've seen this formatting before in email clients.
