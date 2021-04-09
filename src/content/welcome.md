@@ -2,7 +2,7 @@
 layout: post
 title: "3D corals and sculptures"
 author: Jonas
-tags: ["Getting Started"]
+tags: ["New"]
 image: img/welcome.jpg
 date: "2018-05-06T23:46:37.121Z"
 draft: false

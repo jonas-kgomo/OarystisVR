@@ -2,7 +2,7 @@
 layout: post
 title: Ocean Acidification 
 image: img/testimg-cover.jpg
-author: Jonas
+author: Jonas Kgomo
 date: 2018-09-30T07:03:47.149Z
 tags: 
   - Ocean

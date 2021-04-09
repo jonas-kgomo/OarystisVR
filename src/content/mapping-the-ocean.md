@@ -2,7 +2,7 @@
 layout: post
 title: "Mapping The Ocean Seafloor"
 author: Jonas
-tags: ["Getting Started"]
+tags: ["New"]
 image: img/writing.jpg
 date: "2015-02-02T23:46:37.121Z"
 draft: false
