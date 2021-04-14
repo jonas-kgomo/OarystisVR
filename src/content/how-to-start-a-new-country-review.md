@@ -18,9 +18,8 @@ There is already a great interest in [community](https://www.communityled.com/) 
 
 # The Four Places To Build
 
-The internet can expand the possibilies of ownership in the metaverse. There are no limits on the expanse. We started the internet by uploading the atoms into bits, now is time to reverse that taking the bits and creating spaces and communities in the real world
-
-
+The internet can expand the possibilies of ownership in the metaverse. There are no limits on the expanse. We started the internet by uploading the atoms into bits, now is time to reverse that taking the bits and creating spaces and communities in the real world.
+ 
 
 | Frontier |    Metric     |Denizens|
 |----------|:-------------:|------:|
@@ -85,7 +84,7 @@ Man-made islands are usually government projects for geopolitics, the island are
 <iframe width="1065" height="608" src="https://www.youtube.com/embed/luTPMHC7zHY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 6. Space
-Perhaps the most prestigious of the start-a-new-country paths is the idea of colonizing other planets. Unlike seasteading or micronations, space exploration started at the government level and has been glamorized in many movies and TV shows, so it enjoys a higher degree of social acceptability. People mainly think of it as currently technically infeasible rather than outright crazy. Elon Musk's SpaceX is one entity seriously contemplating the logistics of starting a new state on Mars.
+Space colonization  has always been a frontier that most cultures in the past found as a possible habitat, from science fiction to natural philosphy. This is much more socially acceptible endeavour. Elon Musk's SpaceX is one entity seriously contemplating the logistics of starting a new state on Mars.
 
 ### 7. Cloud Countries
 
@@ -98,10 +97,6 @@ These are nations created from the cloud and recruiting happens in the cloud and
 [Próspera](https://www.bloomberg.com/news/articles/2021-03-27/prospera-in-honduras-a-private-tech-city-now-open-for-business) : a mini startup nation with its own set of laws has begun recruiting residents in 2021.
 
 ![img](img/hn.jpg)
-
- 
- 
-
 
 
 
@@ -121,9 +116,9 @@ These are nations created from the cloud and recruiting happens in the cloud and
       <a href="#fnref-vio" class="footnote-backref">↩ Peter Thiel & Eric Weinstein </a>
     </li>
       <li id="fn-vio">
-      <a href="https://www.lesswrong.com/posts/5EnpGNG5xPGSPyuQn/peter-thiel-eric-weinstein-transcript-on-growth-violence-and"></a>
+      <a href="https://youtu.be/eim8REOYLzA"></a>
       <a href="#fnref-vio" class="footnote-backref">↩ Balaji on cloud cities, decentralized credentials and pseudonymity </a>
-      <iframe width="80%" height="90%" src="https://www.youtube.com/embed/eim8REOYLzA" title="Balaji on Everything" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="90%" height="90%" src="https://www.youtube.com/embed/eim8REOYLzA" title="Balaji on Everything" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </li>
   </ol>
 </div>
