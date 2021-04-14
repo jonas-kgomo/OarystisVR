@@ -154,7 +154,14 @@ export const PostFullContent = styled.section`
   blockquote p:last-child {
     margin-bottom: 0;
   }
-
+  div space{
+    padding: 0 5px 2px;
+    font-size: 0.8em;
+    line-height: 1em;
+    font-weight: 600 !important;
+    background: ${colors.pink};
+    border-radius: 3px;
+  }
   code {
     padding: 0 5px 2px;
     font-size: 0.8em;
