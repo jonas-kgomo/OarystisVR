@@ -1,8 +1,12 @@
 # gatsby-casper
 
-Demo: https://gatsby-casper.netlify.com/  
+Deploy with `surge` 
+```bash
+ 
+ cd /public
+ surge -v
 
-This is a static blog generator and starter gatsby repo. A port of [Casper](https://github.com/TryGhost/Casper) v2 a theme from [Ghost](https://ghost.org/) for [GatsbyJS](https://www.gatsbyjs.org/) using [TypeScript](https://www.typescriptlang.org/).
+```
 
 ## Getting Started
 Clone this repo.
