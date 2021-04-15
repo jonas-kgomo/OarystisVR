@@ -86,7 +86,7 @@ const SubscribeForm: React.FunctionComponent = () => {
   return (
     <form
       css={SubscribeFormStyles}
-      action={config.mailchimpAction}
+      action={config.subScribe}
       method="post"
       id="mc-embedded-subscribe-form"
       name="mc-embedded-subscribe-form"
@@ -104,7 +104,7 @@ const SubscribeForm: React.FunctionComponent = () => {
         />
       </FormGroup>
       <div style={{ position: 'absolute', left: '-5000px' }} aria-hidden="true">
-        <input type="text" name={config.mailchimpName} tabIndex={-1} />
+        <input type="text" name={config.subScribe} tabIndex={-1} />
       </div>
       <SubscribeFormButton type="submit">
         <span>Subscribe</span>
