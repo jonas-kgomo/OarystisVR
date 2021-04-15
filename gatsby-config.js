@@ -2,7 +2,7 @@ const path = require('path');
 
 module.exports = {
   siteMetadata: {
-    title: 'Ghost',
+    title: 'Oarystis',
     description: 'Underwater Museum In Virtual Reality',
     siteUrl: 'https://gatsby-casper.netlify.com', // full path to blog - no ending slash
   },
