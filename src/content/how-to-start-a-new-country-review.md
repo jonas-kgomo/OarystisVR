@@ -76,21 +76,29 @@ Micronations is a political entity whose members are an independent nation or so
 
 
 ### 5. Seasteading
-Seasteads are dwellings that are at seas, they can be made from cruise ships, and floating islands.  The Seasteading Institute, is founded by Wayne Gramlich and Patri Friedman who are working on making this feasible. 
+
+Seasteads are dwellings that are at seas, they can be made from cruise ships, and floating islands.  The Seasteading Institute, is founded by Wayne Gramlich and Patri Friedman who are working on making this feasible. The UN uses the Exclusive Economic Zone of 200 nautical miles (370 km) extending from shore to define a country by the sea.
 
 #### 5.1 [Artificial Islands](https://en.wikipedia.org/wiki/Artificial_island)
-Man-made islands are usually government projects for geopolitics, the island are constructed by people rather than formed by natural means. China has made at least seven artificial islands in the South China Sea totaling 2000 acres.
+Man-made islands are usually government projects for geopolitics, the island are constructed by people rather than formed by natural means. China has made at least seven artificial islands in the South China Sea totaling 200 nautical acres, beyond that boundary anyone can experiment with governance systems.
 
 <iframe width="1065" height="608" src="https://www.youtube.com/embed/luTPMHC7zHY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 6. Space
+
 Space colonization  has always been a frontier that most cultures in the past found as a possible habitat, from science fiction to natural philosphy. This is much more socially acceptible endeavour. Elon Musk's SpaceX is one entity seriously contemplating the logistics of starting a new state on Mars.
 
 ### 7. Cloud Countries
 
-These are nations created from the cloud and recruiting happens in the cloud and then later assume them in the physical world. These are created trough virtual social or interest networks which can eventually be countries. Countries like Finland are begining to offer relocation packages, such recruiting can translate to cloud city member harvesting. 
+These are nations created from the cloud and recruiting happens in the cloud and then later assume them in the physical world. These are created trough virtual social or interest networks which can eventually be countries. 
 
-> VR is timeless, since you could interact with spaces that where created in the past. You can have infinite space and land in virtual reality, because the design of the world is not necessarily newtownian. 
+
+> [Epic Games](https://www.epicgames.com/site/en-US/news/announcing-a-1-billion-funding-round-to-support-epics-long-term-vision-for-the-metaverse) has raised 1B USD to create a metaverse where anyone can assume an avatar(meta humans) in a digital world, this will kick-start the global community to be involved!
+
+The premise of a cloud city is that , its downloading internet cultures to the real world, which can be thought of as a cloud embassy. Bitcoin and Ethereum both have these nature of expansion. 
+
+
+> VR is timeless since you could interact with spaces that where created in the past. You can have infinite space and land in virtual reality, because the design of the world is not necessarily newtownian. 
 
 [Decentraland](https://decentraland.org/) : is a platform where you could own digital real-estate and assets. This community can then later be assimilated in the real world. 
 
@@ -98,6 +106,9 @@ These are nations created from the cloud and recruiting happens in the cloud and
 
 ![img](img/hn.jpg)
 
+Countries like Finland are begining to offer relocation packages, such recruiting can translate to cloud city member harvesting.  
+
+The United States has in the past restricted export of software and encryption with [crypto wars](https://en.wikipedia.org/wiki/Crypto_Wars), the antithesis, is to export of software and internet communities into the real world, to expand the freedom of the internet into civil societies, for example the US government practices [export of cryptography](https://en.wikipedia.org/wiki/Export_of_cryptography_from_the_United_States), which made cryptography equivalent to amunitions. In a cloud city,  statutes can be applied from the cities laws to then be applied in the physical city. 
 
 
 <div class="footnotes">
